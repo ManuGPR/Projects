@@ -1,5 +1,5 @@
 # University Projects
-This repository contains links to all the university projects I have worked on during my studies. 
+This repository contains links to the university projects with a repository that I have worked on during my studies. 
 
 - [Mario Bros](https://github.com/CLopMan/MurioBrothers): Recreation of the first level of the Mario Bros. videogame for the NES from 0 using Python and Pyxel.
 - [Creator-Consumer Queue](https://github.com/Marina963/P3_SSOO): Implementation of a creator-consumer queue for banking purposes using C.
